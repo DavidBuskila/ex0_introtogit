@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Schnitzel
+Favorite musician/band: Green Day
+Favorite movie: Spiderman
+Requested grade in the course: 100
